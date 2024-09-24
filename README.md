@@ -1,1 +1,0 @@
-# formatif-intra-prog3
